@@ -24,7 +24,7 @@
 - Defined roadmaps to meet requirements and goals, ensuring alignment with organizational objectives for NPI 1725C La Vista and Papillion Planter models.
 - Successfully led continuous improvement projects and milestones for a new technology process that eliminated 20% in repair time.
 - Led design review activities and prepared for program integration workshops.
-- Achieved Continuous improvement goals in 3 quarters emphasizing quality, yield, reliability, costeffectiveness, productivity, and manufacturability.
+- Achieved Continuous improvement goals in 3 quarters emphasizing quality, yield, reliability, cost-effectiveness, productivity, and manufacturability.
 - Facilitated data-driven decisions and process optimization by designing and implementing a real-time Metrics Reporting PowerBI dashboard.
 - Utilized standard quality tools like FMEA, SPC, Root Cause Analysis, and Statistics with an expert understanding, applying this knowledge to complex situations and research.
 - Facilitated and wrote quality procedures to maintain and update the factory quality system, participated in quality system audits, and supervised, coached, and trained Quality inspectors.
