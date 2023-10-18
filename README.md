@@ -9,7 +9,7 @@
 - Manufacturing: Bill of Materials, Manufacturing Execution Systems, Reliability analysis.
 - Data: SQL, Power BI, Minitab, Tableau, Microsoft Office and Excel.
 - Process: EIS, MRP, SAP, Design of Experiments, Statistical Process Control.
-- Programming: C, Python, CNC programming, PLC Programming- Allen bradley
+- Programming: C, Python, CNC programming, PLC Programming- Allen bradley.
 
 ## Areas of Expertise:
 - Design for Manufacturing - CAD/CAM (Computer-Aided Design/Computer-Aided Manufacturing)
