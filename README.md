@@ -55,32 +55,32 @@
 
 ## Projects
 
-**<a href="assets/img/rotating desk.pdf" target="_blank">Ambidextrous desk chair</a>| University of Michigan (_Dec 2022_)**
+**<a href="assets/rotating desk.pdf" target="_blank">Ambidextrous desk chair</a>| University of Michigan (_Dec 2022_)**
 - Management of Product and Process Design with VOC, KJ Affinity, FAST diagram, Metrics, Concept selection matrix, 
 Concept screening matrix, and Product architecture.
 - Developed a rotating desk that is compatible with left-hand & right-hand users & more ergonomic than the existing 
 products in the market.
 - Developed a 3D model using Solid Works.
 
-**<a href="assets/img/FEA.pdf" target="_blank">Analysis of human femur bone</a> | JNTU (Dec 2019)**
+**<a href="assets/FEA.pdf" target="_blank">Analysis of human femur bone</a> | JNTU (Dec 2019)**
 - Designed, and created a model of a real proximal human femur bone for evaluating the finite element analysis.
 - Study on fracture detection and identification of von Mises stress, deformation, and natural frequency identification for 
 providing guidelines to identify the fracture, Behavior of femur bone is analyzed using ANSYS under physiological load 
 conditions.
 
-**<a href="assets/img/supply chain analytics.pdf" target="_blank">Supply Chain Analytics</a> | University of Michigan (_Dec 2022_)**
+**<a href="assets/supply chain analytics.pdf" target="_blank">Supply Chain Analytics</a> | University of Michigan (_Dec 2022_)**
 - Achieved improvements in cost efficiency, service speed, and system efficiency with a primary focus on enhancing customer satisfaction through faster service delivery.
 - Conducted in-depth analysis of logistics data, including data cleaning and exploratory analysis in Python, to gain insights. 
 - Developed a data pipeline to evaluate various models and select the most suitable one. 
 
 ## Certifications:
-- <a href="assets/img/Coursera RYWT53V7CH95.pdf" target="_blank">Specialization in Supply Chain Analytics.</a>
-- <a href="assets/img/ZSSGB121143672.pdf" target="_blank">Lean Six Sigma Green Belt.</a>
-- <a href="assets/img/Coursera FKZ895J8XRJY.pdf" target="_blank">Operations Management from UIUC.</a>
-- <a href="assets/img/Autodsk.pdf" target="_blank">Intro to Digital Manufacturing with Autodesk Fusion 360.</a>
-- <a href="assets/img/Autodesk Fusion 360.pdf" target="_blank">Autodesk Fusion 360 Integrated CAD/CAM/CAE.</a>
+- <a href="assets/Coursera RYWT53V7CH95.pdf" target="_blank">Specialization in Supply Chain Analytics.</a>
+- <a href="assets/ZSSGB121143672.pdf" target="_blank">Lean Six Sigma Green Belt.</a>
+- <a href="assets/Coursera FKZ895J8XRJY.pdf" target="_blank">Operations Management from UIUC.</a>
+- <a href="assets/Autodsk.pdf" target="_blank">Intro to Digital Manufacturing with Autodesk Fusion 360.</a>
+- <a href="assets/Autodesk Fusion 360.pdf" target="_blank">Autodesk Fusion 360 Integrated CAD/CAM/CAE.</a>
 
 ## Awards and and Extra Curriculars:
-- <a href="assets/img/John Deere.jpg" target="_blank">John Deere Leadership Recognition Award.</a>
-- Conducted a comparative study of crane hook materials (AISI 316L and AISI 4140) using finite element analysis ANSYS, Published a Research Paper <a href="assets/img/Finite Element Fatigue Analysis of a Crane Hook.pdf" target="_blank">Finite Element Fatigue Analysis of a Crane Hook.</a>
+- <a href="assets/John Deere.jpg" target="_blank">John Deere Leadership Recognition Award.</a>
+- Conducted a comparative study of crane hook materials (AISI 316L and AISI 4140) using finite element analysis ANSYS, Published a Research Paper <a href="assets/Finite Element Fatigue Analysis of a Crane Hook.pdf" target="_blank">Finite Element Fatigue Analysis of a Crane Hook.</a>
 - An active coordinator for the International Student Organization (ISO) at University od Michigan for coordinating with the international students and addressing their problems.
