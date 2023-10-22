@@ -1,5 +1,4 @@
 title: "Pranay Reddy Patlolla"
-description_about_me: <a href='assets/img/me.pdf' target='_blank'>About Me</a>
-description_contact_info: Phone Number- 313-318-4958 | Email- patlolla905@gmail.com | LinkedIn- <a href='https://www.linkedin.com/in/pranaypr/' target='_blank'>pranaypr</a>
 logo: "/assets/headshot.jpg"
+description : Phone Number- 313-318-4958 | Email- patlolla905@gmail.com | <a href='https://www.linkedin.com/in/pranaypr/' target='_blank'>LinkedIn</a> | <a href='assets/aboutme.pdf' target='_blank'>AboutMe</a> 
 theme: jekyll-theme-minimal
